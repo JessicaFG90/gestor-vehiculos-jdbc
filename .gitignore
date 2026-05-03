@@ -1,0 +1,23 @@
+# =====================
+# Compilados de Java
+# =====================
+bin/
+*.class
+
+# =====================
+# Configuración Eclipse
+# =====================
+.classpath
+.project
+.settings/
+
+# =====================
+# Credenciales (¡nunca subir!)
+# =====================
+config.properties
+
+# =====================
+# Archivos del sistema
+# =====================
+.DS_Store
+Thumbs.db
